@@ -1,0 +1,14 @@
+C:\Users\vpash\source\repos\PizzaDelivery\PizzaDelivery\bin\Debug\netcoreapp2.1\PizzaDelivery.deps.json
+C:\Users\vpash\source\repos\PizzaDelivery\PizzaDelivery\bin\Debug\netcoreapp2.1\PizzaDelivery.runtimeconfig.json
+C:\Users\vpash\source\repos\PizzaDelivery\PizzaDelivery\bin\Debug\netcoreapp2.1\PizzaDelivery.runtimeconfig.dev.json
+C:\Users\vpash\source\repos\PizzaDelivery\PizzaDelivery\bin\Debug\netcoreapp2.1\PizzaDelivery.dll
+C:\Users\vpash\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\netcoreapp2.1\PizzaDelivery.csprojAssemblyReference.cache
+C:\Users\vpash\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\netcoreapp2.1\PizzaDelivery.csproj.CoreCompileInputs.cache
+C:\Users\vpash\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\netcoreapp2.1\PizzaDelivery.RazorAssemblyInfo.cache
+C:\Users\vpash\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\netcoreapp2.1\PizzaDelivery.RazorAssemblyInfo.cs
+C:\Users\vpash\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\netcoreapp2.1\PizzaDelivery.AssemblyInfoInputs.cache
+C:\Users\vpash\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\netcoreapp2.1\PizzaDelivery.AssemblyInfo.cs
+C:\Users\vpash\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\netcoreapp2.1\PizzaDelivery.RazorTargetAssemblyInfo.cache
+C:\Users\vpash\source\repos\PizzaDelivery\PizzaDelivery\bin\Debug\netcoreapp2.1\PizzaDelivery.pdb
+C:\Users\vpash\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\netcoreapp2.1\PizzaDelivery.dll
+C:\Users\vpash\source\repos\PizzaDelivery\PizzaDelivery\obj\Debug\netcoreapp2.1\PizzaDelivery.pdb
