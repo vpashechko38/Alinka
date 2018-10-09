@@ -11584,23 +11584,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vpash\\.nuget\\packages\\": {},
+    "C:\\Users\\A001\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vpash\\source\\repos\\PizzaDelivery\\PizzaDelivery\\PizzaDelivery.csproj",
+      "projectUniqueName": "C:\\Users\\A001\\Documents\\GitHub\\Alinka\\PizzaDelivery\\PizzaDelivery.csproj",
       "projectName": "PizzaDelivery",
-      "projectPath": "C:\\Users\\vpash\\source\\repos\\PizzaDelivery\\PizzaDelivery\\PizzaDelivery.csproj",
-      "packagesPath": "C:\\Users\\vpash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vpash\\source\\repos\\PizzaDelivery\\PizzaDelivery\\obj\\",
+      "projectPath": "C:\\Users\\A001\\Documents\\GitHub\\Alinka\\PizzaDelivery\\PizzaDelivery.csproj",
+      "packagesPath": "C:\\Users\\A001\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\A001\\Documents\\GitHub\\Alinka\\PizzaDelivery\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\vpash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\A001\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
